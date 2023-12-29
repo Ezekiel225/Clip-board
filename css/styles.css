@@ -188,6 +188,10 @@ h1, h2, h3 {
         padding: 5% 25%;
     }
 
+    .head-paragraph {
+        padding: 0 5%;
+    }
+
     .first-paragraph {
         padding: 0 10%;
     }

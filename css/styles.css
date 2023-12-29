@@ -175,7 +175,7 @@ h1, h2, h3 {
 }
 
 /* Media Querry */
-@media (max-width: 840px) and (min-width: 700px) {
+@media (max-width: 840px) and (min-width: 501px) {
 
     .info {
         text-align: center;

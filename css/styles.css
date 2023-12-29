@@ -175,6 +175,67 @@ h1, h2, h3 {
 }
 
 /* Media Querry */
+@media (max-width: 840px) and (min-width: 700px) {
+
+    .info {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding:  4% 15%;
+    }
+
+    .fifth-cont {
+        padding: 5% 25%;
+    }
+
+    .first-paragraph {
+        padding: 0 10%;
+    }
+
+    .second-paragraph {
+        padding: 0 10%;
+    }
+
+    .third-paragraph {
+        padding: 0 10%;
+    }
+
+    .first-logo {
+        width: 20%;
+    }
+
+    .image-computer {
+        margin-left: 0;
+        width: 80%;
+    }
+
+    .second-logo {
+        width: 16%;
+        margin: 40px;
+    }
+
+    .footer p {
+        text-align: center !important;
+    }
+
+    .col-lg-2 {
+        margin: 0;
+    }
+
+    .icons {
+        margin: 10px 20px 50px;
+    }
+
+    .logos {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+
+}
+
+
 @media (max-width: 500px) {
     body {
         font-size: 16px;
